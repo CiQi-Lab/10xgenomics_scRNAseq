@@ -55,6 +55,6 @@ echo "== End of Job =="
 ```
 
 
-- To understand on how to generate a reference file for the genome, follow [make_genome_ref.md](https://github.com/CiQi-Lab/10xgenomics_scRNAseq/edit/main/make_genome_ref.md)
+- To understand on how to generate a reference file for the genome, follow [make_genome_ref.md](https://github.com/CiQi-Lab/10xgenomics_scRNAseq/blob/main/make_genome_ref.md)
 
-- For pre-processing and creating count matrix from fastq file, follow [create_cmatrix.md](https://github.com/CiQi-Lab/10xgenomics_scRNAseq/edit/main/create_cmatrix.md)
+- For pre-processing and creating count matrix from fastq file, follow [create_cmatrix.md](https://github.com/CiQi-Lab/10xgenomics_scRNAseq/blob/main/create_cmatrix.md)
