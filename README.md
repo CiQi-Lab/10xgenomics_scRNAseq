@@ -1,4 +1,4 @@
-# scRNAseq preprocessing  <img align = 'right' width="250" height = '100' alt="image" src="https://github.com/CiQi-Lab/10xgenomics_scRNAseq/assets/64673748/c333c7de-510f-4808-939e-e10200938bd0"> <img width="250" height='100' align = 'right' alt="image" src="https://github.com/CiQi-Lab/10xgenomics_scRNAseq/assets/64673748/1e9565e4-3e00-4e85-88ff-9f8009ff8890">
+# scRNAseq preprocessing  <img align = 'right' width="150" height = '60' alt="image" src="https://github.com/CiQi-Lab/10xgenomics_scRNAseq/assets/64673748/c333c7de-510f-4808-939e-e10200938bd0"> <img width="150" height='60' align = 'right' alt="image" src="https://github.com/CiQi-Lab/10xgenomics_scRNAseq/assets/64673748/1e9565e4-3e00-4e85-88ff-9f8009ff8890">
 
 
 ### CellRanger for scRNA-seq Pre-processing
